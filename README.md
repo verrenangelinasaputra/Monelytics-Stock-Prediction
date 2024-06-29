@@ -14,7 +14,7 @@
 
 This project predicts the closing price based on the original prediction and compares which model provides the most accurate result overall. We found that the linear regression and support vector machine are the best models for predicting the close price of bank stock. On the other hand, CNNs are not suitable for stock prediction and have shown worse performance compared to the other models, based on observations of RMSE and MAE values. 
 
-**Demonstration Video for Monelytics Web:**
+**Demonstration Video for Monelytics Web:** https://youtu.be/GRpjmhJcJbQ?si=HaiPP84lL96NXFO4
 
 **Contributor:**
 1. Dean Hans Felandio Saputra
